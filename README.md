@@ -3,7 +3,7 @@
 <h3 align="center">A passionate 👨‍💻 Full Stack developer from India</h3>
 <br/>
  
-- 🌱 I’m currently learning **Spring Boot, ReactJS, MongoDB**  
+- 🌱 I’m currently learning **MongoDB, Express.js, ReactJS, Node.js **  
 
 - 👨‍💻 All of my projects are available at [https://animeshanand.web.app/](https://animeshanand.web.app/)
 - 📫 How to reach me **animesh.anand68@gmail.com**
